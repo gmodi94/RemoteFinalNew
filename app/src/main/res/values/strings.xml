@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RemoteFinalNew</string>
+    <string name="action_settings">Settings</string>
+    <string name="kButton_String">K</string>
+    <string name="UpButton_String">UP</string>
+    <string name="LeftButton_String">LEFT</string>
+    <string name="RightButton_String">RIGHT</string>
+    <string name="DownButton_String">DOWN</string>
+    <string name="gButton_String">G</string>
+    <string name="BreakButton_String">BREAK</string>
+    <string name="jButton_String">J</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="Racing_Car_String">Racing Car Controller</string>
+    <string name="title_activity_game_launcher">game_launcher</string>
+
+    <string name="title_activity_splash_activity">splash_activity</string>
+
+    <string name="title_activity_splash__activity__new">Splash_Activity_New</string>
+</resources>
